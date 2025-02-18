@@ -33,7 +33,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=white&background=f7f7f7&ring=0073e6&fire=0073e6&currStreakLabel=0000ff&sideNums=0073e6&sideLabels=0073e6&dates=006400&stroke=&border=" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alfinmanoj&theme=white&background=f7f7f7&ring=0073e6&fire=0073e6&currStreakLabel=0000ff&sideNums=0073e6&sideLabels=0073e6&dates=006400&stroke=&border=" alt="GitHub Streak Stats" />
+
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
